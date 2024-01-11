@@ -8,6 +8,7 @@ There are two different branches associated with this lesson.
 ### Topics Covered
 - Reactstrap
 - Auth & Signup Components
+  - useRef()
 
 ### What Should Already Be Understood
 - Creating a React Application
