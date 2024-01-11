@@ -39,6 +39,7 @@ This lesson also provides the solution for the **Counter Challenge** in the prev
 - [Bootstrap Grid](https://getbootstrap.com/docs/5.3/layout/grid/)
 - [w3Schools useRef](https://www.w3schools.com/react/react_useref.asp)
 - [Hook API Reference React](https://reactjs.org/docs/hooks-reference.html#useref)
+- [NPM Cors Package](https://www.npmjs.com/package/cors)
 
 ## Challenge
 **Login**
