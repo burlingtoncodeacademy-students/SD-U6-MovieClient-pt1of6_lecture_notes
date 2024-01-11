@@ -30,7 +30,9 @@ This lesson also provides the solution for the **Counter Challenge** in the prev
     - [App.css](./src/App.css) (provided code)
 
 - `notes.md`: details the various notes taught throughout this lesson.
-- **assets folder**:
+- **assets folder**: additional notes
+  - screenshot of where to update server
+  - component tree example
 
 ## Resources
 - [Reactstrap Docs](https://reactstrap.github.io/?path=/docs/components-forms--input#hidden-labels)
