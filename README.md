@@ -16,12 +16,16 @@ There are two different branches associated with this lesson.
 - Reusable Components
 - Props
 - Basic structure of `useState`
+- Express Server
 
 ## Files / Folders Provided in this Lesson
 You will just need to spin up a new React application and add update the following:
 This lesson starts right at the `npx create-react-app .` point.
 
 This lesson also provides the solution for the **Counter Challenge** in the previous. The lesson will not walk through that solution, but the code is available to review.
+
+**Running:**
+- You will need to start up **MongoDB** and your **Movie Server**. Navigate to your server project within the terminal and run `nodemon` or `npm start` and have your server going while building the Movie application.
 
 - movies
   - src
